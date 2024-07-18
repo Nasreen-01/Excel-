@@ -14,8 +14,10 @@ insights to facilitate informed decision-making, guiding future business strateg
 **Finance Analytics Reports:
   Profit and Loss by Markets: Categorized markets based on profit and loss.
   Profit and Loss by Fiscal Year: Evaluated Profit and Loss categorized by fiscal year.
-  Profit and Loss by Month: Analyzed Profit and Loss categorized by fiscal month, including a monthly breakdown by each year from 2019 to 2021.
-  Key Financial Metrics: Created and analyzed key financial metrics such as Net Sales, Cost of Goods Sold (COGS), and Gross Margin, performing a comprehensive analysis between fiscal years 2019-2021.
+  Gross Margin Percentage by Quarters: Analyzed Gross Margin Percentage categorized by fiscal quarters, including a quarterly breakdown by each year 
+  from 2019 to 2021.
+  Key Financial Metrics: Created and analyzed key financial metrics such as Net Sales, Cost of Goods Sold (COGS), and Gross Margin, performing a comprehensive 
+   analysis between fiscal years 2019-2021.
 
 **Tools/Features Used:
   Power Query: Importing, transforming, and cleaning data from various sources.
